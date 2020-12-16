@@ -1,4 +1,4 @@
-# Performance AssessmentTool for a Pulsed Plasma Thruster
+# Performance Assessment Tool for a Pulsed Plasma Thruster
 This repo contains all scripts related to GUI developed for analysis. The MATLAB based GUI helps predict the performance parameters of a PPT based on its electrical and mechanical design. Various models have been used to help with the estimation as mentioned below
 1. Constant Element Model
 2. Dynamical Model
